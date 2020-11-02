@@ -1,0 +1,7 @@
+BigInteger bn=new BigInteger(n);
+    if(bn.isProbablePrime(1)){
+        System.out.println("prime");
+    }
+    else{
+        System.out.println("not prime"); 
+    }
